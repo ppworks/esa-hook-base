@@ -1,0 +1,12 @@
+{
+  "name": "esa-hook",
+  "keywords": [
+    "esa",
+    "lint"
+  ],
+  "env": {
+    "SECRET_TOKEN": {
+      "description": "Your esa webhook secret token"
+    }
+  }
+}
